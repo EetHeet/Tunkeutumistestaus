@@ -3,7 +3,8 @@
 Kysymykset:
 "Mitä teit / minkä komennon annoit
 Mitä tapahtui / mitä tuli vastaukseksi
-Analyysi edellyttää analyysia. Selitä omin sanoin, mistä on kyse ja mitä komentojen tulosteet / lokit / siepatun liikenteen osat tarkoittavat." https://terokarvinen.com/2024/eettinen-hakkerointi-2024/#h0-sieppari-ruispellossa
+Analyysi edellyttää analyysia. Selitä omin sanoin, mistä on kyse ja mitä komentojen tulosteet / lokit / siepatun liikenteen osat tarkoittavat." 
+https://terokarvinen.com/2024/eettinen-hakkerointi-2024/#h0-sieppari-ruispellossa
 
 Annetaan komento <sudo wireshark> niin aukeaa wireshark jolla voidaa analysoida verkkoliikennettä.
 ![image](https://github.com/EetHeet/Tunkeutumistestaus/assets/164857391/bf0528cf-132d-49b2-ab78-8ccace3c5cfd)
