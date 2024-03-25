@@ -7,7 +7,7 @@ Tämä IPv6 Router Solicitation viesti tarkoittaa sitä, että tietokoneeni läh
 
 Ensimmäinen numero 7 tarkoittaa että monesko ilmoitus se on wiresharkissa
 
-Seuraava numero 40.66 tarkoittaa aikaa
+Seuraava numero 40.66... tarkoittaa siitä kun verkkoliikenteen analysointi on aloitettu sekunteina.
 
 Seuraava merkkijono on tietokoneeni IPv6 osoite
 
