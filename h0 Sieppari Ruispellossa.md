@@ -1,4 +1,4 @@
-#h1
+#h0
 
 Annetaan komento <sudo wireshark> niin aukeaa wireshark jolla voidaa analysoida verkkoliikennettä.
 ![image](https://github.com/EetHeet/Tunkeutumistestaus/assets/164857391/bf0528cf-132d-49b2-ab78-8ccace3c5cfd)
