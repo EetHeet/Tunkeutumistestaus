@@ -1,4 +1,4 @@
-#h0
+# h0
 
 Kysymykset:
 "Mitä teit / minkä komennon annoit
